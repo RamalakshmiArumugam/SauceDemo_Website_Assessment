@@ -1,0 +1,23 @@
+{
+    "FirstName_Field_empty": {
+        "name": "first name",
+        "firstname": "",
+        "lastname": "Lakshmi",
+        "postal": "129123",
+        "error": "Error: First Name is required"
+    },
+    "LastName_Field_empty": {
+        "name": "last name",
+        "firstname": "Rama",
+        "lastname": "",
+        "postal": "129123",
+        "error": "Error: Last Name is required"
+    },
+    "PostalCode_Field_empty": {
+        "name": "postal code",
+        "firstname": "Rama",
+        "lastname": "Lakshmi",
+        "postal": "",
+        "error": "Error: Postal Code is required"
+    }
+}
